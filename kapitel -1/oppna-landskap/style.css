@@ -1,0 +1,7 @@
+ @import url('https://fonts.googleapis.com/css2?family=Anton&family=Slabo+13px&display=swap');
+ body {background-image: url(./bilder/davide-biscuso-MAs60jlt64U-unsplash.jpg);}
+h1 {font-family: "Anton", sans-serif;}
+h2 { font-family: "Slabo 13px", serif; color: white; font-size: 60px;}
+p { font-family: "Slabo 13px", serif;}
+a {}
+
