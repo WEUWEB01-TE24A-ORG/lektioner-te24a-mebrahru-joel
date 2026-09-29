@@ -1,10 +1,30 @@
 body {
-    background-image: url(./bilder/5bb8d41e6ff527c44f3e7a0f2a62e488.jpg); 
+background-image: url(./bilder/image\ copy.png);
 }
 h1 {
+  font-family: "Boogaloo", sans-serif;
+  font-size:  100px;
+  margin-left: 450px;
   color: white;
 }
-p {
+p { width: 1200px;
+    font-family: "Boogaloo", sans-serif;
+    margin-left: 275px;
+    font-size: 18px;
     color: white;
     
+}
+table{
+    margin-left: 695px;
+    background-color: white;
+
+}
+img{
+    width: 500px;
+    margin-left: 550px;
+}
+caption{
+    margin-right: 00px;
+    background-color: #000000;
+    -webkit-text-fill-color: white;
 }
