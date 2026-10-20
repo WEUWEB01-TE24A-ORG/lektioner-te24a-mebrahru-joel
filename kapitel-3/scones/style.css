@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+/* sidans utseende */
+div{
+    font-family: "Imperial Script", cursive;
+    width: 700px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: burlywood;
+    border: 10px solid #e09f3e;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px #e09f3e;
+
+}
+/*  innehållets useende */
+h1{
+    font-size: 30px;
+}
+img{
+    width: 100%;
+    margin-bottom: 20px;
+    border: 20px solid #e09f3e;
+    border-radius: 30px;
+    
+}
+h2{
+    font-size: 20px;
+    margin: 10px;
+}
+p{
+    margin-bottom: 10px;
+}
+ul{
+    margin-left: 50px;
+}
+li{}
+ol{}
+a{
+    color: #9e2a2b;
+}
