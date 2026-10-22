@@ -26,11 +26,12 @@ div{
 /*  innehållets useende */
 h1{
     font-size: 30px;
+    margin-left: 100px;
 }
 img{
     width: 100%;
     margin-bottom: 20px;
-    border: 20px solid #e09f3e;
+    border: 10px solid #e09f3e;
     border-radius: 30px;
     
 }
